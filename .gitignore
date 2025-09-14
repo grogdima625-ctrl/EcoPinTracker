@@ -1,0 +1,17 @@
+# Android build artifacts
+/build/
+/app/build/
+/.gradle/
+/local.properties
+
+# IDE settings
+.idea/
+*.iml
+
+# APKs and logs
+*.apk
+*.log
+
+# OS-specific junk
+.DS_Store
+Thumbs.db

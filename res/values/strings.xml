@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EcoPinTracker</string>
+    <string name="hello_world">Привет, мир!</string>
+    <string name="button_label">Добавить точку</string>
+</resources>
